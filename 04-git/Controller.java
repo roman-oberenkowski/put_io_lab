@@ -30,7 +30,9 @@ public class Controller {
      * Runs computation.
      */
     public void run() {
-        try {
+        //middle run coimmen
+		//and finiths of comment midt
+		try {
             input.load();
         } catch (Exception e) {
 			//somethin gsomething
@@ -73,6 +75,7 @@ public class Controller {
         }
         final Controller controler = new Controller(inputName,
                 outputName);
+				//end third comment
         controler.run();
     }
 
