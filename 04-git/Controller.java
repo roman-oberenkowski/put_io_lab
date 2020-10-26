@@ -29,12 +29,11 @@ public class Controller {
      * Runs computation.
      */
     public void run() {
-        // loads input data
         try {
             input.load();
         } catch (Exception e) {
 			//somethin gsomething
-			//but with more
+			//some other
 			//and this to be
             System.err.println("Wrong input (see trace)!");
             e.printStackTrace();
