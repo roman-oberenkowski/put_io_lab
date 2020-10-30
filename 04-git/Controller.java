@@ -1,3 +1,4 @@
+//forced rebase test1
 //forgotten comment
 package pl.poznan.put.cs.io.errors;
 //start
