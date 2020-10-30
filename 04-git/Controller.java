@@ -75,6 +75,7 @@ public class Controller {
             }
         }
         final Controller controler = new Controller(inputName,
+		//git rebase test 3
                 outputName);
 				//end third comment
         controler.run();
