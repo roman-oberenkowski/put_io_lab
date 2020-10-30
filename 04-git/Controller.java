@@ -24,6 +24,7 @@ public class Controller {
      *  @param inputName {String} input file path or console word for manual input
      *  @param outputName {String} output file path console word for standard output to the console
      */
+	 //some code added in main1
     public Controller(String inputName, String outputName) {
         input = new DataInput(inputName);
         output = new DataOutput(outputName);
@@ -86,5 +87,6 @@ public class Controller {
     }
 	//check if it is going to break 2
 	//with simexd
-
+	//some code added in main2
 }
+//some code added in main3
