@@ -3,7 +3,7 @@ package pl.poznan.put.cs.io.errors;
 //start
 //start-cd (imports)
 import java.util.List;
-
+//rebase test1
 
 import pl.poznan.put.cs.io.errors.processors.BFSProcessor;
 import pl.poznan.put.cs.io.errors.storage.DataInput;
@@ -69,6 +69,7 @@ public class Controller {
             System.exit(-1);
         } else {
             inputName = args[0];
+			//git rebase test2
             // second parameter is optional
             if (args.length > 1) {
                 outputName = args[1];
