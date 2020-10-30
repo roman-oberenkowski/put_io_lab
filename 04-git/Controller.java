@@ -9,6 +9,7 @@ import java.util.List;
 import pl.poznan.put.cs.io.errors.processors.BFSProcessor;
 import pl.poznan.put.cs.io.errors.storage.DataInput;
 import pl.poznan.put.cs.io.errors.storage.DataOutput;
+//git status test
 
 /**
  * This is the controller class, which reads the input, runs the computing and writes the output.
