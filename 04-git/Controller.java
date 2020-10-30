@@ -63,6 +63,7 @@ public class Controller {
      * Main program interface for the executable
      * @param args  input "output" where input/output are names of files or "console" for standard in/out
      */
+	 //new feature code 2
     public static void main(String[] args) {
         String inputName = null;
         String outputName = "console";
@@ -78,6 +79,7 @@ public class Controller {
             if (args.length > 1) {
                 outputName = args[1];
             }
+			//new feature code 3
         }
         final Controller controler = new Controller(inputName,
 		//git rebase test 3
@@ -90,3 +92,4 @@ public class Controller {
 	//some code added in main2
 }
 //some code added in main3
+//new feature code 1
