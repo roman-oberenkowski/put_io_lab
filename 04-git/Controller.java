@@ -55,6 +55,7 @@ public class Controller {
             e.printStackTrace();
         }
     }
+	//git stash test 3
 	//forced rebase test 2
     /**
      * Main program interface for the executable
