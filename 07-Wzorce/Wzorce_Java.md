@@ -14,6 +14,6 @@
 14.
 	* addMouseMotionListiner(MouseListener)
 	* addActionListener(ActionListener)
-15. MouseListiner
+15. MouseListener
 16. ActionListener
 17. ConcreteObserver
