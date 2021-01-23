@@ -1,0 +1,13 @@
+oryginalnie: średnia 3469ms
+po usunięciu debugu : 2673ms
+po zmianie liczenia średniej (jednorazowo): 6ms
+
+z2.1 1.995 kart na sekundę
+z2.2 30 drukarek, bo dla 10 przepusowość 2/s, dla 20 - 4/s dla 30 -> 5.9/s ~  20000/h
+
+z3 
+Label		Samples		Average		Min		Max		Std. Dev.	Error %		Throughput	Received KB/sec		Sent KB/sec		Avg. Bytes
+print_card		178		5007		4998	5020	5.13		0.000%		1.17806		0.19				0.15			162.0
+
+zapomniałem zapisać planów do jmx, kiedy robiłem zadania 1 i 2
+potem wróciłem i tworzyłem je ponownie. z1 się zapisało, przy z2 wywalał null pointer exception - poddałem się i jest zdjęcie planu dla z2
